@@ -1,2 +1,3 @@
 # Nome amigável|URL raw
-Basic|https://raw.githubusercontent.com/StartStatic1/AScan-Combos/main/combo1.txt
+Pro|https://raw.githubusercontent.com/StartStatic1/AScan-Combos/main/combo1.txt
+Plus|https://raw.githubusercontent.com/StartStatic1/AScan-Combos/main/combo2.txt
