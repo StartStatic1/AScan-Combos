@@ -1,6 +1,0 @@
-# Formato: Nome|URL_RAW
-# Repo: https://github.com/StartStatic1/AScan-Combos
-# O repositório deve ser PÚBLICO
-
-Combo 1|https://raw.githubusercontent.com/StartStatic1/AScan-Combos/main/combo1.txt
-Combo 2|https://raw.githubusercontent.com/StartStatic1/AScan-Combos/main/combo2.txt
